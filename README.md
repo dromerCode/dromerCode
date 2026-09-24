@@ -36,7 +36,14 @@ Uso tanto Windows como Linux (normalmente EndeavourOS/Arch), dependiendo del pro
 
 ---
 
-## Self-hosting / servidores
+## Self-hosting / homelab
+
+![ZimaOS](https://img.shields.io/badge/ZimaOS-1E1E1E?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)
+![OpenMediaVault](https://img.shields.io/badge/OpenMediaVault-5DACDF?style=flat&logo=openmediavault&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 Tengo un servidor propio con ZimaOS y varios contenedores Docker.
 
@@ -45,6 +52,32 @@ Lo principal es **Pichaflix**, mi servidor multimedia basado en Jellyfin, donde 
 Utilizo automatización con el stack ARR, Jellyseerr para solicitudes, JFA-Go para gestión de usuarios e invitaciones y varios servicios adicionales para monitorización y administración.
 
 También tengo un bot llamado **Pichabot**, conectado a Telegram y a mis equipos, para gestionar diferentes tareas del servidor y automatizaciones.
+
+Además del servidor principal:
+
+- **Almacenamiento:** un segundo equipo con OpenMediaVault y un RAID5, montado por red en el servidor.
+- **DNS:** gestionado desde Cloudflare.
+- **Apps propias:** cuando algo me queda grande o pesado, prefiero hacérmelo yo. Por ejemplo, un grabador y visor web para una cámara IP (Flask + ffmpeg) en vez de montar un NVR completo.
+
+---
+
+## Proyectos
+
+| Repo | Qué es |
+|------|--------|
+| [juegoNaves](https://github.com/pichaDev/juegoNaves) | Juego de naves hecho en Java |
+| [proyecto-cicd-daw](https://github.com/pichaDev/proyecto-cicd-daw) | Pipeline CI/CD con GitHub Actions y Docker para una app Node.js |
+| [cursophp](https://github.com/pichaDev/cursophp) | Curso de PHP desde cero |
+| [curso-DWEC-26-27](https://github.com/pichaDev/curso-DWEC-26-27) | Desarrollo web en entorno cliente (JavaScript), curso 2026-2027 |
+
+---
+
+## Aprendiendo ahora
+
+- JavaScript en el cliente (DWEC)
+- PHP
+- CI/CD y despliegues con Docker
+- Bases de datos, para dejar de tenerlas como punto flojo
 
 ---
 
@@ -56,4 +89,4 @@ Fuera de la informática me gustan los videojuegos, la música, el anime y las s
 
 ---
 
-Aprendiendo y experimentando sobre la marcha.
+*Aprendiendo y experimentando sobre la marcha.*
