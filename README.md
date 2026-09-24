@@ -65,7 +65,7 @@ Además del servidor principal:
 
 | Repo | Qué es |
 |------|--------|
-| [juegoNaves](https://github.com/pichaDev/juegoNaves) | Juego de naves hecho en Java |
+| [juegoNaves](https://github.com/pichaDev/juegoNaves) | Juego de naves en Java, trabajo en grupo de clase |
 | [proyecto-cicd-daw](https://github.com/pichaDev/proyecto-cicd-daw) | Pipeline CI/CD con GitHub Actions y Docker para una app Node.js |
 | [cursophp](https://github.com/pichaDev/cursophp) | Curso de PHP desde cero |
 | [curso-DWEC-26-27](https://github.com/pichaDev/curso-DWEC-26-27) | Desarrollo web en entorno cliente (JavaScript), curso 2026-2027 |
@@ -76,7 +76,8 @@ Además del servidor principal:
 
 - JavaScript en el cliente (DWEC)
 - PHP
-- CI/CD y despliegues con Docker
+- TypeScript
+- Spring Boot
 - Bases de datos, para dejar de tenerlas como punto flojo
 
 ---
@@ -86,6 +87,12 @@ Además del servidor principal:
 También he trabajado bastante con Minecraft, creando y administrando servidores con mods y plugins.
 
 Fuera de la informática me gustan los videojuegos, la música, el anime y las series.
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/dromerocoz/)
 
 ---
 
