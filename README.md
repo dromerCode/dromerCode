@@ -11,14 +11,16 @@ Uso tanto Windows como Linux (normalmente EndeavourOS/Arch), dependiendo del pro
 ## Stack y tecnologías
 
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -30,7 +32,7 @@ Uso tanto Windows como Linux (normalmente EndeavourOS/Arch), dependiendo del pro
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pichaDev&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pichaDev&theme=tokyo-night&hide_border=true)
+![Contribuciones](https://ghchart.rshah.org/7aa2f7/pichaDev)
 
 ---
 
