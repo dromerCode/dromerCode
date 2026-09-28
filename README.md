@@ -1,10 +1,10 @@
 # Hi, I'm pichaDev
 
-2nd-year web development student (DAW) in Spain, interested in pretty much anything computer-related: development, systems and whatever catches my eye.
+2nd-year Web Development student (DAW) in Spain, interested in web development, systems and self-hosting.
 
-I enjoy software and self-hosting, though databases are still my weakest spot.
+I enjoy building projects, experimenting with new technologies and running my own infrastructure. I mainly work with Java and web technologies, while exploring new tools and frameworks along the way.
 
-I use both Windows and Linux (usually EndeavourOS/Arch), depending on the project or what I'm doing.
+I use both Windows and Linux, usually EndeavourOS/Arch, depending on the project.
 
 ---
 
@@ -28,7 +28,7 @@ I use both Windows and Linux (usually EndeavourOS/Arch), depending on the projec
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-I run my own server with ZimaOS and a bunch of Docker containers.
+I run my own homelab using ZimaOS and Docker, hosting multiple services and self-hosted applications.
 
 The main one is **Pichaflix**, my Jellyfin-based media server, currently managing around 15TB of content.
 
@@ -46,19 +46,26 @@ Besides the main server:
 
 ## Currently learning
 
-- Client-side JavaScript
-- PHP
 - TypeScript
+- PHP
 - Spring Boot
-- Databases, to stop them being my weak spot
+- Database design and SQL
+- AI development
 
 ---
 
 ## Stack
+### Operating systems
 
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDBoMTEuNHYxMS40SDB6TTEyLjYgMEgyNHYxMS40SDEyLjZ6TTAgMTIuNmgxMS40VjI0SDB6TTEyLjYgMTIuNkgyNFYyNEgxMi42eiIvPjwvc3ZnPg==)
 
+### Tools and infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Languages and web technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
