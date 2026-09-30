@@ -12,6 +12,8 @@ I use both Windows and Linux, usually EndeavourOS/Arch, depending on the project
 
 | Repo | What it is |
 |------|------------|
+| [portfolio](https://github.com/pichaDev/portfolio) | My bilingual portfolio, self-hosted on my homelab: [portfolio.pichahouse.es](https://portfolio.pichahouse.es) |
+| [tabmon](https://github.com/pichaDev/tabmon) | Use an Android tablet as an extended monitor on niri over USB (Rust, AUR package) |
 | [subtrack](https://github.com/pichaDev/subtrack) | Self-hosted subscription tracker: Spring Boot + React/TypeScript + PostgreSQL, one Docker image, English/Spanish UI |
 | [juegoNaves](https://github.com/pichaDev/juegoNaves) | Space shooter game in Java, group project for class |
 | [proyecto-cicd-daw](https://github.com/pichaDev/proyecto-cicd-daw) | CI/CD pipeline with GitHub Actions and Docker for a Node.js app |
