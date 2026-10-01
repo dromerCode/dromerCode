@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="pichaDev banner" width="100%" />
+</p>
+
 # Hi, I'm pichaDev
 
 2nd-year Web Development student (DAW) in Spain, interested in web development, systems and self-hosting.

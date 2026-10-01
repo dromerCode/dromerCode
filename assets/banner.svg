@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="pichaDev: web developer, self-hosting and homelab">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1b26"/>
+      <stop offset="1" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#292e42" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      text { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .led { animation: pulse 2.4s ease-in-out infinite; }
+      .led2 { animation-delay: .8s; }
+      .led3 { animation-delay: 1.6s; }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+      .line { opacity: 0; animation: show .4s ease-out forwards; }
+      .l1 { animation-delay: .3s; } .l2 { animation-delay: .9s; } .l3 { animation-delay: 1.5s; } .l4 { animation-delay: 2.1s; }
+      @keyframes show { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+
+  <!-- window bar -->
+  <circle cx="36" cy="32" r="7" fill="#f7768e"/>
+  <circle cx="60" cy="32" r="7" fill="#e0af68"/>
+  <circle cx="84" cy="32" r="7" fill="#9ece6a"/>
+  <text x="600" y="37" text-anchor="middle" font-size="14" fill="#565f89">picha@homelab: ~</text>
+
+  <!-- terminal -->
+  <g font-size="22">
+    <text class="line l1" x="56" y="100"><tspan fill="#9ece6a">picha@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ whoami</tspan></text>
+  </g>
+  <text class="line l2" x="54" y="168" font-size="58" font-weight="700" fill="url(#title)">pichaDev</text>
+  <text class="line l3" x="56" y="210" font-size="20" fill="#a9b1d6">DAW student · web dev · self-hosting · homelab</text>
+  <text class="line l4" x="56" y="256" font-size="22"><tspan fill="#9ece6a">picha@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+  <rect class="cursor" x="284" y="238" width="12" height="24" fill="#c0caf5"/>
+
+  <!-- server rack -->
+  <g transform="translate(900 70)">
+    <rect width="220" height="190" rx="10" fill="#1f2335" stroke="#3b4261" stroke-width="2"/>
+    <g>
+      <rect x="16" y="16" width="188" height="44" rx="6" fill="#24283b" stroke="#3b4261"/>
+      <circle class="led" cx="36" cy="38" r="5" fill="#9ece6a"/>
+      <rect x="54" y="33" width="44" height="4" rx="2" fill="#3b4261"/>
+      <rect x="54" y="41" width="30" height="4" rx="2" fill="#3b4261"/>
+      <text x="190" y="43" text-anchor="end" font-size="12" fill="#7aa2f7">zimaos</text>
+    </g>
+    <g transform="translate(0 56)">
+      <rect x="16" y="16" width="188" height="44" rx="6" fill="#24283b" stroke="#3b4261"/>
+      <circle class="led led2" cx="36" cy="38" r="5" fill="#7dcfff"/>
+      <rect x="54" y="33" width="44" height="4" rx="2" fill="#3b4261"/>
+      <rect x="54" y="41" width="30" height="4" rx="2" fill="#3b4261"/>
+      <text x="190" y="43" text-anchor="end" font-size="12" fill="#bb9af7">omv · raid5</text>
+    </g>
+    <g transform="translate(0 112)">
+      <rect x="16" y="16" width="188" height="44" rx="6" fill="#24283b" stroke="#3b4261"/>
+      <circle class="led led3" cx="36" cy="38" r="5" fill="#e0af68"/>
+      <rect x="54" y="33" width="44" height="4" rx="2" fill="#3b4261"/>
+      <rect x="54" y="41" width="30" height="4" rx="2" fill="#3b4261"/>
+      <text x="190" y="43" text-anchor="end" font-size="12" fill="#7dcfff">pichaflix</text>
+    </g>
+  </g>
+</svg>
