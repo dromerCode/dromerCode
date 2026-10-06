@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="pichaDev: web developer, self-hosting and homelab">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="dromerCode: web developer, self-hosting and homelab">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1a1b26"/>
@@ -44,7 +44,7 @@
   <g font-size="22">
     <text class="line l1" x="56" y="100"><tspan fill="#9ece6a">picha@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ whoami</tspan></text>
   </g>
-  <text class="line l2" x="54" y="168" font-size="58" font-weight="700" fill="url(#title)">pichaDev</text>
+  <text class="line l2" x="54" y="168" font-size="58" font-weight="700" fill="url(#title)">dromerCode</text>
   <text class="line l3" x="56" y="210" font-size="20" fill="#a9b1d6">DAW student · web dev · self-hosting · homelab</text>
   <text class="line l4" x="56" y="256" font-size="22"><tspan fill="#9ece6a">picha@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
   <rect class="cursor" x="284" y="238" width="12" height="24" fill="#c0caf5"/>

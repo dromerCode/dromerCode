@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="pichaDev banner" width="100%" />
+  <img src="assets/banner.svg" alt="dromerCode banner" width="100%" />
 </p>
 
-# Hi, I'm pichaDev
+# Hi, I'm dromerCode
 
 2nd-year Web Development student (DAW) in Spain, interested in web development, systems and self-hosting.
 
@@ -16,13 +16,13 @@ I use both Windows and Linux, usually EndeavourOS/Arch, depending on the project
 
 | Repo | What it is |
 |------|------------|
-| [portfolio](https://github.com/pichaDev/portfolio) | My bilingual portfolio, self-hosted on my homelab: [portfolio.pichahouse.es](https://portfolio.pichahouse.es) |
-| [tabmon](https://github.com/pichaDev/tabmon) | Use an Android tablet as an extended monitor on niri over USB (Rust) |
-| [subtrack](https://github.com/pichaDev/subtrack) | Self-hosted subscription tracker: Spring Boot + React/TypeScript + PostgreSQL, one Docker image, English/Spanish UI |
-| [juegoNaves](https://github.com/pichaDev/juegoNaves) | Space shooter game in Java, group project for class |
-| [proyecto-cicd-daw](https://github.com/pichaDev/proyecto-cicd-daw) | CI/CD pipeline with GitHub Actions and Docker for a Node.js app |
-| [cursophp](https://github.com/pichaDev/cursophp) | PHP course from scratch |
-| [curso-DWEC-26-27](https://github.com/pichaDev/curso-DWEC-26-27) | Client-side web development (JavaScript), 2026-2027 course |
+| [portfolio](https://github.com/dromerCode/portfolio) | My bilingual portfolio, self-hosted on my homelab: [portfolio.pichahouse.es](https://portfolio.pichahouse.es) |
+| [tabmon](https://github.com/dromerCode/tabmon) | Use an Android tablet as an extended monitor on niri over USB (Rust) |
+| [subtrack](https://github.com/dromerCode/subtrack) | Self-hosted subscription tracker: Spring Boot + React/TypeScript + PostgreSQL, one Docker image, English/Spanish UI |
+| [juegoNaves](https://github.com/dromerCode/juegoNaves) | Space shooter game in Java, group project for class |
+| [proyecto-cicd-daw](https://github.com/dromerCode/proyecto-cicd-daw) | CI/CD pipeline with GitHub Actions and Docker for a Node.js app |
+| [cursophp](https://github.com/dromerCode/cursophp) | PHP course from scratch |
+| [curso-DWEC-26-27](https://github.com/dromerCode/curso-DWEC-26-27) | Client-side web development (JavaScript), 2026-2027 course |
 
 ---
 
@@ -86,13 +86,13 @@ Besides the main server:
 ## GitHub stats
 
 <p>
-  <img height="165" alt="Stats" src="https://github-readme-stats-one.vercel.app/api?username=pichaDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=pichaDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" alt="Stats" src="https://github-readme-stats-one.vercel.app/api?username=dromerCode&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=dromerCode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pichaDev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dromerCode&theme=tokyonight&hide_border=true)
 
-![Contributions](https://ghchart.rshah.org/7aa2f7/pichaDev)
+![Contributions](https://ghchart.rshah.org/7aa2f7/dromerCode)
 
 ---
 
