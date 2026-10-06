@@ -38,16 +38,16 @@
   <circle cx="36" cy="32" r="7" fill="#f7768e"/>
   <circle cx="60" cy="32" r="7" fill="#e0af68"/>
   <circle cx="84" cy="32" r="7" fill="#9ece6a"/>
-  <text x="600" y="37" text-anchor="middle" font-size="14" fill="#565f89">picha@homelab: ~</text>
+  <text x="600" y="37" text-anchor="middle" font-size="14" fill="#565f89">dromerCode@homelab: ~</text>
 
   <!-- terminal -->
   <g font-size="22">
-    <text class="line l1" x="56" y="100"><tspan fill="#9ece6a">picha@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ whoami</tspan></text>
+    <text class="line l1" x="56" y="100"><tspan fill="#9ece6a">dromerCode@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ whoami</tspan></text>
   </g>
   <text class="line l2" x="54" y="168" font-size="58" font-weight="700" fill="url(#title)">dromerCode</text>
   <text class="line l3" x="56" y="210" font-size="20" fill="#a9b1d6">DAW student · web dev · self-hosting · homelab</text>
-  <text class="line l4" x="56" y="256" font-size="22"><tspan fill="#9ece6a">picha@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
-  <rect class="cursor" x="284" y="238" width="12" height="24" fill="#c0caf5"/>
+  <text class="line l4" x="56" y="256" font-size="22"><tspan fill="#9ece6a">dromerCode@homelab</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+  <rect class="cursor" x="351" y="238" width="12" height="24" fill="#c0caf5"/>
 
   <!-- server rack -->
   <g transform="translate(900 70)">
