@@ -16,6 +16,7 @@ I use both Windows and Linux, usually EndeavourOS/Arch, depending on the project
 
 | Repo | What it is |
 |------|------------|
+| [pocketpanel](https://github.com/dromerCode/pocketpanel) | Phone app (PWA) to run a home server: status, containers, terminal, push alerts and Claude Code chat. FastAPI + vanilla JS, modular, installs on any Ubuntu + Docker + Tailscale box |
 | [portfolio](https://github.com/dromerCode/portfolio) | My bilingual portfolio, self-hosted on my homelab: [portfolio.pichahouse.es](https://portfolio.pichahouse.es) |
 | [tabmon](https://github.com/dromerCode/tabmon) | Use an Android tablet as an extended monitor on niri over USB (Rust) |
 | [subtrack](https://github.com/dromerCode/subtrack) | Self-hosted subscription tracker: Spring Boot + React/TypeScript + PostgreSQL, one Docker image, English/Spanish UI |
@@ -47,6 +48,7 @@ Besides the main server:
 
 - **Storage:** a second machine running OpenMediaVault with a RAID5 array, network-mounted on the server.
 - **DNS:** managed through Cloudflare.
+- **pocketpanel:** my own phone app to manage the server (status, containers, terminal, Claude Code), now [open source](https://github.com/dromerCode/pocketpanel).
 - **Custom apps:** when something feels too big or heavy, I'd rather build my own. For example, a web recorder and viewer for an IP camera (Flask + ffmpeg) instead of running a full NVR.
 
 ---
